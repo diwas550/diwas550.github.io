@@ -1,0 +1,27 @@
+html{
+	background-color:  grey;
+}
+
+	body{
+		text-align: center;
+	}
+
+
+h1{
+	color: black;
+}
+a{
+	          display: block;
+	          font-weight: bold;
+	          background-color:white;
+	          text-align: center;
+	          border: white;
+	          display: inline-block;
+	          }
+
+	         
+.gome{
+	background-color: #CACC90;
+	font-size: 50px;
+	line-height: 62px;
+}

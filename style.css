@@ -1,0 +1,49 @@
+html{
+	background-color: gray;
+}
+}
+body{
+	background-color: darkcyan;
+	font-family: cursive,fantasy,serif;
+	font size:50px;
+	line-height: 62px;
+
+}
+a{
+	          display: block;
+	          font-weight: bold;
+	          background-color:white;
+	          text-align: center;
+	          border: white;
+	          display: inline-block;
+	          
+
+
+
+}
+hr{
+	background-color: white;
+}
+p{
+	font-family: sans-serif;
+	color: black;
+	list-style: darkcyan;
+	
+	
+
+
+
+
+}
+footer{
+	background-color: #8BA6A9;
+	text-align: center;
+}
+header{
+	background-color: #8BA6A9;
+}
+.gome{
+	background-color: #CACC90;
+	font-size: 50px;
+	line-height: 62px;
+}
